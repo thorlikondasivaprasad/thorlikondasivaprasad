@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Undergrad.<br>🌱 I’m interested in Data Analytics and Python Programming<br>
+🔭 I’m currently a Computer Science Undergrad.<br>🌱 I’m interested in AI , DSML Enthusiast ,Data Analytics and Python Programming<br>
 
 
 ## 🌐 Socials:
