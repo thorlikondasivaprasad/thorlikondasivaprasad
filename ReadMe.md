@@ -1,8 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Undergrad.<br>🌱 I’m interested in AI , DSML Enthusiast ,Data Analytics and Python Programming<br>
-
-
-## 🌐 Socials:# 💫 About Me:
 👨‍💻 Hi, I'm Siva Prasad Thorlikonda<br><br>✔️ I am currently a final-year student, passionate about honing my skills and gaining valuable industry experience.<br><br>📚 I thrive on learning and adapting to new environments, always striving to expand my knowledge and expertise across various domains.<br><br>🤖 AI & ML Enthusiast<br>With a deep interest in Artificial Intelligence and Machine Learning, I am dedicated to understanding and applying these technologies to solve real-world problems.<br>Currently, I am upskilling myself in Generative AI and exploring its significant impact on the tech landscape.<br><br>🛠️ Tech Stack and Skills<br><br>Programming: Proficient in Python, with extensive experience in data analysis using libraries like Numpy, Pandas, Matplotlib, Seaborn, and Sklearn.<br>Data Manipulation: Skilled in SQL for efficient data manipulation and management.<br>Web Development: Solid understanding of web development using HTML5, CSS, JavaScript, and Bootstrap, along with backend development using Node.js and Express.js.<br>Django Framework: Competent in developing web applications using Django, leveraging its robust features to create scalable and efficient solutions.<br>
 
 
